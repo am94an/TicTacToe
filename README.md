@@ -28,7 +28,7 @@ This repository contains a Tic Tac Toe game implemented in Python using Pygame. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/am94an/TikTakToe.git
+   git clone https://github.com/am94an/TicTacToe.git
    cd TikTakToe
    ```
 
